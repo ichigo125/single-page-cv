@@ -1,4 +1,6 @@
-# single-page-cv
+
+https://ichigo125.github.io/single-page-cv/
+
 ## Description
 This is my first project! I’m learning how to use GitHub.
 
